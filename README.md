@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dimitris Dimitriadis
+- 👀 I’m interested in coding and game designing
+- 🌱 I’m currently learning unity,blender and c++
+- 📫 Email: dim.dimitriadis03@gmail.com
