@@ -1,26 +1,30 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>Hey! Nice to see you </h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>Hey! I am Dimitris, nice to see you </h1>
 
 <p align="center"> 
   I am a passionate game designer
 </p>
 
 
-🕹️ From Game Maker Studio to Unity and Beyond 
+🕹️ From Game Maker Studio to Unity and Beyond<hr>
 My coding adventure began with Game Maker Studio 2, where I kicked off my coding odyssey and delved into the fundamentals. While Unity initially seemed like a steep climb for my skill level, I pivoted to Godot 2 and fell head over heels for GDScript, sparking a profound passion for game development. 
 
-🌐 Exploring Python and Real-world Applications 
+
+🌐 Exploring Python and Real-world Applications<hr>
 As my coding prowess grew, I ventured into the realm of Python, crafting simple yet powerful bots and programs that seamlessly integrated into my daily life. This phase of exploration not only expanded my skill set but also empowered me to solve real-world challenges with elegant solutions. 
 🚀 Unity and C#: A Game-changing Fusion 
 Fast forward two years, and I found myself irresistibly drawn to the world of Unity and the elegance of C#. The combination proved to be a game-changer, capturing my imagination and propelling me into a coding odyssey that I've been hooked on ever since. 
 
-🎓 Academic Foundations 
-As an eager student at UTH, I've been diving deep into the intricacies of digital systems during my ongoing academic journey. This experience is shaping my understanding of digital technologies, systems, and ethical coding practices, laying a strong foundation for my exploration and innovation in the coding space. 
 
-👨‍💻 Linux Enthusiast and Open Source Advocate 
+🎓 Academic Foundations <hr>
+As an eager student at UTH, I've been diving deep into the intricacies of digital systems during my ongoing academic journey. This experience is shaping my understanding of digital technologies, systems, and ethical coding practices, laying a strong foundation for my exploration and innovation in the coding space. <br>
+
+
+👨‍💻 Linux Enthusiast and Open Source Advocate <hr>
 For the past four years, I've immersed myself in the Linux ecosystem, with a particular focus on Arch Linux. The flexibility and power of Linux have been instrumental in shaping my coding environment, providing a robust foundation for my development endeavors. As a staunch advocate of open source, I believe in the collaborative spirit of the community and the principles of transparency and accessibility that open source projects embody. 
 
-🔒 GitHub Repositories Note 
-At the moment, I primarily use GitHub for personal projects, which is why most of my repositories are private.
+
+🔒 GitHub Repositories Note <hr>
+At the moment, I primarily use GitHub for personal projects, which is why most of my repositories are private. 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
