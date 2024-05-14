@@ -28,7 +28,7 @@ At the moment, I primarily use GitHub for personal projects, which is why most o
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-*   🌍  I'm based in Larisa
+*   🌍  I'm based in Thesaloniky
 *   ✉️  You can contact me at [dim.dimitriadis03@gmail.com](mailto:dim.dimitriadis03@gmail.com)
 *   🧠  I'm learning Unreal, Rust
 
